@@ -1,1 +1,1 @@
-# emir-afk-client
+Çalıştırma
